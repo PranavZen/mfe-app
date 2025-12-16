@@ -7,7 +7,7 @@ const App: React.FC = () => {
   return (
     <div className="min-vh-100 d-flex flex-column">
       <Navbar />
-      <div className="flex-grow-1 bg-light">
+      <div className="flex-grow-1 bg-light ">
         <ProductsList />
       </div>
       <Footer />
